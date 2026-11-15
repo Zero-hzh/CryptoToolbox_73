@@ -1,0 +1,6 @@
+# 依赖与环境
+node_modules/
+.vscode/
+.idea/
+.DS_Store
+*.log
